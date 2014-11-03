@@ -1,13 +1,5 @@
 # How to contribute
 
-### Send patches to the Dart repo
-
-We are currently in the middle of a migration process. This sample is still
-developed under the Dart repo in
-`branches/bleeding_edge/dart/samples/tracker/`.
-Until the migration is complete, we are not accepting pull requests on this
-repo.
-
 ### Sign our Contributor License Agreement (CLA)
 
 Even for small changes, we ask that you please sign the CLA electronically
